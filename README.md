@@ -1,4 +1,8 @@
 # h1 heading
 ## h2 heading
 ### h3 heading
-#### h1 heading
+#### h4 heading
+
+## Horizontal Rules
+
+**This is bold text**
